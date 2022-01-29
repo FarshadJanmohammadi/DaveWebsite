@@ -1,5 +1,5 @@
 
-# Dove Website
+# Dove Website Design
 
 Dove website design using HTML, CSS and Bootstrap library
 
