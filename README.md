@@ -1,7 +1,7 @@
 
 # Dove Website Design
 
-Dove website design using HTML, CSS and Bootstrap library
+Dove website design Responsive using HTML, CSS and Bootstrap library
 
 
 ## Authors
