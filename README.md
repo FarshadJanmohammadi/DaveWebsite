@@ -25,7 +25,7 @@ Dove website design Responsive using HTML, CSS and Bootstrap library
 ## Demo
 
 Insert gif or link to demo:
-https://farshadjanmohammadi.github.io/DoveWebsite/
+https://cocky-villani-90e5be.netlify.app
 
 
 ## 🚀 About Me
