@@ -4,9 +4,20 @@
 Dove website design Responsive using HTML, CSS and Bootstrap library
 
 
+## Screenshots
+
+![App Screenshot1](https://github.com/FarshadJanmohammadi/images/blob/main/dov.jpg?raw=true)
+![App Screenshot1](https://github.com/FarshadJanmohammadi/images/blob/main/dov2.jpg?raw=true)
+
+
+## Demo Online
+
+https://cocky-villani-90e5be.netlify.app
+
+
 ## Authors
 
-- [@FarshadJanmohammadi](https://www.github.com/farshadjanmohammadi)
+- [Farshad Janmohammadi](https://www.FarshadJanmohammadi.ir)
 
 ## Color Reference
 
@@ -22,15 +33,11 @@ Dove website design Responsive using HTML, CSS and Bootstrap library
 
 
 
-## Demo
-
-Insert gif or link to demo:
-https://cocky-villani-90e5be.netlify.app
 
 
 ## 🚀 About Me
 I'm a Front-end web developer with advanced skills in all stages of web development. Full familiarity in the process of user interface, testing and troubleshooting. Specialist in the design, installation, testing and maintenance of web systems. Has a diverse set of programming skills. Skilled in:
-HTML, CSS, JavaScript(ES6) ,JQuery, ReactJS, Redux, Typescript, Sass, Bootstrap, Git, GraphQL 
+HTML, CSS, JavaScript(ES6) ,JQuery, ReactJS, Redux, Next, MaterialUI, Typescript, Sass, Bootstrap, Git, TailWind
 With the ability to carry out projects individually and in groups.
 
 
@@ -42,6 +49,8 @@ With the ability to carry out projects individually and in groups.
 
 ## 🛠 Skills
 
-HTML, CSS, JavaScript(ES6) ,JQuery, ReactJS, Redux, Typescript, Sass, Bootstrap, Git, GraphQL 
+HTML, CSS, JavaScript(ES6) ,JQuery, ReactJS, Redux, Next, MaterialUI, Typescript, Sass, Bootstrap, Git, TailWind
+
+
 
 
